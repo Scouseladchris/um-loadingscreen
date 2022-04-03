@@ -1,8 +1,16 @@
-- Welcome to 'Operation Tropic Thunder'
+- Welcome to the Patrol Server..
 
 UPDATES:
-- New custom Uniforms for all departments!
-- New custom Vehicles for all departments!
-- 'Core' adding Economy, Housing, Jobs, Items etc..
-- New custom Maps city-wide
-- New custom Computer Aided Dispatch system
+- 'Fuel Nozzles' for a more realistic fueling
+- Adjusted Top-Left overlay to be more appealing :)
+- Added a few extra ANPR Cameras
+- New Helicopter Camera Script
+- New Hose Script
+- Lotsa new maps, bringing that more british vibe
+
+BUG FIXES:
+- Clothing covering skin causing inability to see Tattoos
+- Radial Menu (F1) clothing issue making users put clothes on instead of taking off
+- Members have 'Staff' tag above head
+- Discord link changed to new, correct link
+- Issue with Watermonitor's has been resolved
