@@ -16,6 +16,8 @@ UPDATES:
 BUG FIXES:
 - Various known bugs
 - "Prisoners" spawning outside the main entrance rather than inside the prison
+- No prison doors/gates locking, making escaping easy
+- Police MDT/Tablets showing 'Poltie' instead of 'Police' *eyeroll*
 
 
 07/04/2022
