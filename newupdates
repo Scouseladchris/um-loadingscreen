@@ -1,6 +1,8 @@
-- Welcome to the Patrol Server..
+- Welcome to the Patrol Servers
 
+02/05/2022
 UPDATES:
+- ADDED Donator store, a place for donators to buy vehicles
 - ADDED Two Donator Vehicles for C. Worton
 - ADDED One Donator Vehicle for C. McGuirk
 - ADDED 2019 Volvo XC-60 Marked & Unmarked for MERPOL
@@ -9,6 +11,60 @@ UPDATES:
 - ADDED 2019 Peugeot 3008 Marked for MERPOL
 - ADDED 2019 Peugeot 308 SW Marked for MERPOL
 - ADDED 2017 Ford Kuga Unmarked for MERPOL
+- ADDED 2021 Skoda Octavia Doctor for NWAS
 
 BUG FIXES:
-None during this release
+- Various known bugs
+
+
+07/04/2022
+UPDATES:
+- McDonalds in Paleto
+- C. McGuirk housing interior
+- New Fire Station at 306
+- New Police Vehicles (Prison Bus, Volvo S60, Kia Ceed & Ford Mondeo)
+- New Ambulance Vehicles (x2 Ford Transit Customs, MAN TGE Van & Volkswagen Touareg)
+- Welcoming 1 Vapeshack stores into the City! (at 514)
+
+BUG FIXES:
+- None during this release
+
+
+03/04/2022
+UPDATES:
+- 'Fuel Nozzles' for a more realistic fueling
+- Adjusted Top-Left overlay to be more appealing :)
+- Added a few extra ANPR Cameras
+- New Helicopter Camera Script
+- New Hose Script
+- Lotsa new maps, bringing that more british vibe
+
+BUG FIXES:
+- Clothing covering skin causing inability to see Tattoos
+- Radial Menu (F1) clothing issue making users put clothes on instead of taking off
+- Members have 'Staff' tag above head
+- Discord link changed to new, correct link
+- Issue with Watermonitor's has been resolved
+
+
+29/03/2022
+"Operation Tropic Thunder" release patrol!
+
+UPDATES:
+- New custom Uniforms for all departments!
+- New custom Vehicles for all departments!
+
+BUG FIXES:
+- None to report
+
+
+23/03/2022
+UPDATES:
+- New custom Uniforms for all departments!
+- New custom Vehicles for all departments!
+- 'Core' adding Economy, Housing, Jobs, Items etc..
+- New custom Maps city-wide
+- New custom Computer Aided Dispatch system
+
+BUG FIXES:
+- None to report
