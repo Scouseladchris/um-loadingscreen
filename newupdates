@@ -4,6 +4,7 @@
 UPDATES:
 - ADDED Custom Female Clothing
 - ADDED Custom Male Clothing
+- REMOVED 'Prone' feature
 
 BUG FIXES:
 - FIXED Farming Items having no icons
@@ -28,9 +29,9 @@ UPDATES:
 - ADDED Farming Job
 - ADDED Civilian Female Clothing
 - ADDED Civilian Male Clothing
+- REMOVED 114 replacement vehicles that were causing lag/texture loss
 
 BUG FIXES:
-- REMOVED 114 replacement vehicles that were causing lag/texture loss
 - FIXED Clothing showing whilst trying to create tattoos
 
 
