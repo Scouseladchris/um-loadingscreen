@@ -1,5 +1,26 @@
 - Welcome to the Patrol Servers
 
+00/00/2023
+VERSION 3.0 - Welcome
+UPDATES:
+- Added [RREC2] 2019 Skoda Kodiaq (North West Ambulance Service)
+- Added [RREC3] 2022 Mustang Mach E (North West Ambulance Service)
+- Added [MERIT1] 2007 Vauxhall Zafira (North West Ambulance Service)
+- Added [UBT1] 2013 Ford Transit [Urgent Blood Transport] (North West Ambulance Service)
+- Added [P17] 2022 Ford Transit (Merseyside Police)
+- Added [P18] 2022 Peugeot 308 SW (Merseyside Police)
+- Added [PO2] 2013 Mercedes Sprinter Box [Mobile Police Station] (Merseyside Police)
+- Added [PO3] 2007 Nissan Nivara (Merseyside Police)
+- Added [DOG1] 2018 Volkswagen Caddy (Merseyside Police)
+- Added [MVET14] 2021 Cupra Leon (Merseyside Police)
+- Added [RDU2] 2022 BMW M3 Competition F80 (Merseyside Police)
+- Added [MVET14] 2021 Cupra Leon [UNMARKED] (Merseyside Police)
+- Added [RDU2] 2022 BMW M3 Competition F80 [UNMARKED] (Merseyside Police)
+- Removed [HART1] 2013 Mercedes-Benz Sprinter (North West Ambulance Service)
+- Removed [PO1] 2011 Volvo V70 (Merseyside Police)
+
+BUG FIXES:
+
 17/01/2023
 UPDATES:
 - Re-initialised Public Server 2
