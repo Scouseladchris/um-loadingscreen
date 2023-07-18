@@ -1,11 +1,59 @@
-Welcome to the FivePD Server 1.0.
+Welcome to the FivePD Server V2.0.
 
 Here you will see updates and information!
 
-00/00/2023
+18/07/2023
 VERSION 3.0
 UPDATES:
 - Added 
+Added FivePD CAD Tablet
+Added Custom UK Charges and Citations
+Added Custom Ped Interaction Questions
+Added FivePD Intuitive Menus
+Added 10+ Custom Callouts
 - Removed 
+Nothing..
 
 BUG FIXES:
+Boot Menu Displaying Wrong Items
+
+15/07/2023
+VERSION 3.0
+UPDATES:
+- Added 
+30+ Custom Callouts
+Panic Button Script
+Replaced All Stock FivePD Vehicles
+Added VMenu
+- Removed 
+Nothing..
+
+BUG FIXES:
+Nothing..
+
+08/07/2023
+VERSION 3.0
+UPDATES:
+- Added 
+Added 5 Police Vehicles for Local Policing
+Added 4 Police Vehicles For Armed Response
+Added 15+ Custom Callouts
+Changed CAD Background
+- Removed 
+Stock Police Vehicles
+
+BUG FIXES:
+ELS Not loading
+
+04/07/2023
+VERSION 3.0
+UPDATES:
+- Added 
+Added 3 Police Vehicles for Local Policing
+Added Role Specific Custom Loadouts
+Added Custom Items
+- Removed 
+Nothing..
+
+BUG FIXES:
+Nothing..
