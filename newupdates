@@ -1,6 +1,129 @@
 - Welcome to the Patrol Servers
 
-00/00/2023
+27/06/2023
+UPDATES:
+- ADDED HART5, a 2022 John Deer Gator for NWAS
+
+26/07/2023
+UPDATES:
+- ADDED New Intro Song
+- ADDED qb-evidence, enhanced evidence/csi script
+- ADDED elite-hud, a new stylish hud system
+- ADDED qb-simplefarming, a new job for civilians
+- ADDED Street Location Display
+- REMOVED BritishELS
+
+BUG FIXES:
+- FIXED Loading Screen not showing Steam Username and instead showing 'Null' (Woops I fucked up with that one)
+- FIXED P14 Blue lights showing as Red
+- FIXED ELS Rear Reds turning on in Stg3
+- FIXED MVET10 failing to spawn
+- FIXED FLEET1 Rear Ambers showing as Red
+
+
+25/07/2023
+UPDATES:
+- ADDED RREC4, a BMW R1200RT for NWAS
+- ADDED ARV Base "Lillie Road Police Station" at 9316
+- ADDED Interaction Points, Door Locks and Clothing points for Lillie Road Police Station
+- ADDED MERIT3 a 2017 Vauxhall Insignia for NWAS
+- ADDED CCT4 a 2021 Skoda Superb Scout for NWAS
+- ADDED CCT5, a 2020 Toyota RAV4 for NWAS
+- ADDED HART4, a 2017 Mercedes-Benz Sprinter for NWAS
+- ADDED HEMS1, a 2018 BMW X5 for NWAS
+- ADDED RREC5, a 2018 Volvo V90 for NWAS
+- ADDED WarrantCard, use /wc to show your creds'
+- ADDED oCrimeScenes, use /eviMarker [1-20] to place a marker & /delMarker to delete the closest one
+- ADDED CoverSheet, use /coversheet to hold up a sheet to protect scenes
+- ADDED BritishELS:
+ - Primary Light Toggle: Q & DPAD Left
+ - Secondary Light Toggle: L
+ - Rear Reds Toggle: K
+ - Front Blues Toggle: [
+ - Toggle Siren: G & DPAD Down
+ - Next Siren: R & B
+ - Siren Change: 1, 2, 3, 4
+ - Indicators: L Arrow & R Arrow
+ - Hazards: Down Arrow
+- ADDED San Andreas Avenue Police Station at 8090
+- ADDED Interaction Points, Door Locks, Clothing Points & Lifts for San Andreas Avenue Police Station
+
+BUG FIXES:
+- FIXED Sound & Handling for RREC4
+- FIXED Sound & Handling for MVET2
+- FIXED qb-ambulancejob config changed
+
+
+24/07/2023
+UPDATES:
+- Added "Eclipse Medical Tower" at 6187 our new, primary hospital
+- Added NHS Base at 7166
+- Added McDonalds at 8051
+- Added IKEA at 3052
+- Added Licensing Centre at 10001
+- Added Innocence Boulevard Police Station at 9148
+- Added RREC1, a BMW i3 for NWAS
+- Added AMB8, a 2020 Mercedes-Benz Sprinter for NWAS
+- Added "MerseysideRPC" Billboard opposite Sinner Street Police Station
+- Added interaction & clothing points for Eclipse Medical Tower, Innocence Boulevard Police Station & NHS Base
+- Added AMB6, a 2021 MAN TGE for NWAS
+- Added AMB4, a 2022 Ford Transit Custom for NWAS
+- Added POLMAV, a 2016 Eurocopter EC135 for MERPOL
+- Added HM1, a 2016 Eurocopter EC135 for NWAS
+- Added HM2, a 1996 Eurocopter MH65 Dauphin for NWAS
+- Added QB-LIFTS, elevator script
+- Added door locks for Eclipse Medical Tower, Innocence Boulevard Police Station & NHS Base
+
+BUG FIXES:
+- Fixed cash/bank values sometimes showing as Dollars ($) instead of Pounds (£)
+- Fixed Audio for RREC3, RREC1, AMB1, AMB2, AMB4, AMB6 & AMB8
+- Fixed Handling for AMB1, AMB2, AMB4, AMB6 & AMB8
+- Fixed a texture issue related to HM1
+- Fixed Clothing Menu at JD Sports (7190)
+- Adjusted City Hall & Driving School to 10001, inside the building behind the counter
+
+
+22/07/2023 
+UPDATES:
+- Added Smart Taser
+- Added Throw Bags
+- Added Smart Signs
+- Added Smart Drone
+- Added Smart Airbags
+- Added Rope Rescue
+- Added Rescue Cushion
+- Added Police Shields
+- Added Weapon Lanyard
+- Added Decontamination Tent
+- Added Bike Hire
+- Added Clothing locations for Pillbox Hill Hospital, Ocean Hospital & Sinner Street Police Station
+
+BUG FIXES:
+- Fixed Doors for Sinner Street Police Station
+- Fixed Doors for Pillbox Hill Hospital
+- Fixed Doors for Ocean Hospital
+
+
+21/07/2023
+UPDATES:
+- Added Vehicle Objects - Learner/Pass Plates & PCNs
+- Added British Police Handbook - UK Legislation
+- Added SmartObserverations
+- Added Live Face Recognition
+- Added Weapon Laser Sight
+- Added SmartTester (Drugs & Alcohol)
+- Added SmartClamp
+- Added CustodyAlarm
+- Added LSHose
+- Added Interaction Points - Sinner Street Police Station
+- Added Pillbox Hill Hospital - Interior
+
+BUG FIXES:
+- Fixed QB-Radio
+- Removed "Always-Shop" from outside PDM
+
+
+12/07/2023
 VERSION 3.0 - Welcome
 UPDATES:
 - Added [RREC2] 2019 Skoda Kodiaq (North West Ambulance Service)
@@ -23,7 +146,6 @@ UPDATES:
 - Removed [HART1] 2013 Mercedes-Benz Sprinter (North West Ambulance Service)
 - Removed [PO1] 2011 Volvo V70 (Merseyside Police)
 
-BUG FIXES:
 
 17/01/2023
 UPDATES:
@@ -31,12 +153,11 @@ UPDATES:
 - Added [P17] 2022 Ford Transit (Merseyside Police)
 - ALL servers now unwhitelisted for anyone to come join us! Merseyside Police, North West Ambulance Service & Merseyside Fire and Rescue Service remain as whitelisted roles that can be applied for at www.merseysiderpc.co.uk
 
-BUG FIXES:
-- None during this release
 
 03/11/2022
 Testing 1.. 2.. 3.. Is this thing on??
 Sorry about that "brief" intermission there. Welcome Back!
+
 
 17/06/2022
 UPDATES:
@@ -45,6 +166,7 @@ UPDATES:
 
 BUG FIXES:
 - None during this release
+
 
 09/06/2022
 UPDATES:
@@ -74,9 +196,6 @@ BUG FIXES:
 19/05/2022
 UPDATES:
 - ADDED 1 Donator Vehicle for J. Alldis
-
-BUG FIXES:
-- None during this release
 
 
 18/05/2022
@@ -109,9 +228,6 @@ UPDATES:
 - ADDED Pet Shop at 930
 - ADDED Vets at 611
 
-BUG FIXES:
-- None during this release
-
 
 10/05/2022
 UPDATES:
@@ -124,9 +240,6 @@ BUG FIXES:
 07/05/2022
 UPDATES:
 - ADDED 62 Addon Vehicles
-
-BUG FIXES:
-- None during this release
 
 
 06/05/2022
