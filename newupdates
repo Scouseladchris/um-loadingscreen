@@ -2,11 +2,14 @@
 
 25/08/2023
 UPDATES:
+- ADDED PO4, A 2019 Mercedes-Benz Sprinter for MERPOL
+- ADDED RDU3, A 2015 Audi S4 for MERPOL
 
 BUG FIXES:
-- Fixed CLTF1 handling
-- Fixed UCLTF1 handling
-- Fixed c63cr700coupe19 handling
+- FIXED CLTF1 handling
+- FIXED UCLTF1 handling
+- FIXED c63cr700coupe19 handling
+- FIXED DOG3 handling
 
 24/08/2023
 UPDATES:
